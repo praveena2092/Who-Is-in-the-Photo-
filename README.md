@@ -49,7 +49,7 @@ File names are cleaned up: `priya_sharma.png`, `Priya Sharma (2).jpg` and `Priya
 | Compare | Cosine similarity of each face against every folder photo | Fast: 10 × 50 comparisons is instant |
 | Decide | Hungarian assignment + threshold 0.35 | Each name used at most once; below the threshold → **Unknown** |
 
-Details and trade-offs: [ARCHITECTURE.md](docs/architecture.html). Options considered: [RESEARCH.md](docs/RESEARCH.md). How decisions were made with AI: [AI_COLLAB.md](docs/AI_COLLAB.md).
+Details and trade-offs: [ARCHITECTURE.md](docs/architecture.png). Options considered: [RESEARCH.md](docs/RESEARCH.md). How decisions were made with AI: [AI_COLLAB.md](docs/AI_COLLAB.md).
 
 ## Testing
 
