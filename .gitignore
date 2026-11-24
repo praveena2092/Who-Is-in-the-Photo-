@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+models/
+frontend/node_modules/
+frontend/dist/
+practice_data/
+.DS_Store
